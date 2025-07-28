@@ -1,0 +1,5 @@
+newmtl New_Material
+map_Kd Marble railing_BaseColor.png
+Kd 1 1 1
+d 1
+
